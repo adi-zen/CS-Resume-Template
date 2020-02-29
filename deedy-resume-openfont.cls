@@ -23,7 +23,7 @@
 \definecolor{primary}{HTML}{2b2b2b}
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
-\definecolor{palette}{HTML}{1a1aff}
+\definecolor{palette}{HTML}{86b300}
 
 %replace the hex code in palette with the following if you would like to change the color theme.
 %green = 009973, 86b300
